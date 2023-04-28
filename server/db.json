@@ -1,0 +1,60 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Rajkumar.K",
+      "company": "Servall Engr",
+      "email": "Rajkumar@gmail.com",
+      "title": "Manager",
+      "mobile": "9659304833",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
+      "groupId": "3"
+    },
+    {
+      "id": "TVobxeKbI",
+      "name": "Krishnaveni.R",
+      "company": "Mother",
+      "email": "Krishnaveni@gmail.com",
+      "title": "HomeMaker",
+      "mobile": "9597822571",
+      "photo": "https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png",
+      "groupId": "2"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Logeshkumar.R",
+      "company": "Grab tech",
+      "email": "logeshkumar@gmail.com",
+      "title": "SoftwareEngr",
+      "mobile": "8838557417",
+      "photo": "https://png.pngtree.com/png-clipart/20190922/original/pngtree-business-male-user-avatar-vector-png-image_4774078.jpg",
+      "groupId": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
